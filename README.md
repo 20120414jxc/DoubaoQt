@@ -1,3 +1,4 @@
+<a href="https://space.bilibili.com/1524901776"><img src="https://img.shields.io/badge/Bilibili-关注我-pink?logo=bilibili" alt="Bilibili"></a>   
 # 豆包客户端
 
 ## 项目简介
